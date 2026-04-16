@@ -29,9 +29,10 @@ If you want to run or compile the code yourself, it relies entirely on Python's 
 To build the executable yourself, you will need `pyinstaller`:
 ```bash
 pip install pyinstaller
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/2ae97de8-10fa-4528-9cb4-e12883cb38fd" width="850" controls="controls"></video>
-</div>
+
+
+https://github.com/user-attachments/assets/aaee986c-4c08-4614-8056-93478781ca09
+
 
 
 
