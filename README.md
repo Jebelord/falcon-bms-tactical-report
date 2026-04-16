@@ -31,7 +31,7 @@ To build the executable yourself, you will need `pyinstaller`:
 pip install pyinstaller
 
 <div align="center">
-  <video src="[PASTE_YOUR_VIDEO_LINK_HERE](https://github.com/user-attachments/assets/c4085a4b-9228-437d-adfe-98bab2a3ee19)" width="850" controls="controls"></video>
+  <video src="[(https://github.com/user-attachments/assets/c4085a4b-9228-437d-adfe-98bab2a3ee19)]" width="850" controls="controls"></video>
 </div>
 
 
