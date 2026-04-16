@@ -26,12 +26,14 @@ If you want to run or compile the code yourself, it relies entirely on Python's 
 </div>
 
 
+https://github.com/user-attachments/assets/aaee986c-4c08-4614-8056-93478781ca09
+
+
 To build the executable yourself, you will need `pyinstaller`:
 ```bash
 pip install pyinstaller
 
 
-https://github.com/user-attachments/assets/aaee986c-4c08-4614-8056-93478781ca09
 
 
 
