@@ -22,7 +22,7 @@ A Python-based tool that automatically parses Falcon BMS debrief logs (`.txt`) a
 ## How to Build from Source (For Developers)
 If you want to run or compile the code yourself, it relies entirely on Python's standard libraries. No external dependencies are required to run the script.
 <div align="center">
-  <img src="![Tactical Report Screenshot](001.png)" alt="Tactical Report Screenshot" width="850">
+  <img src="001.png" alt="Tactical Report Screenshot" width="850">
 </div>
 
 
