@@ -1,4 +1,4 @@
-        ![Tactical Report Screenshot](002.png)
+![Tactical Report Screenshot](002.png)
 # falcon-bms-tactical-report (BETA)
 Automated tactical AAR generator for Falcon BMS
 # Falcon BMS Tactical Report Builder
