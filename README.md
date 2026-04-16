@@ -1,4 +1,4 @@
-![Tactical Report Screenshot](001.png)
+        ![Tactical Report Screenshot](002.png)
 # falcon-bms-tactical-report (BETA)
 Automated tactical AAR generator for Falcon BMS
 # Falcon BMS Tactical Report Builder
@@ -22,7 +22,7 @@ A Python-based tool that automatically parses Falcon BMS debrief logs (`.txt`) a
 ## How to Build from Source (For Developers)
 If you want to run or compile the code yourself, it relies entirely on Python's standard libraries. No external dependencies are required to run the script.
 
-![Tactical Report Screenshot](002.png)
+![Tactical Report Screenshot](001.png)
 
 To build the executable yourself, you will need `pyinstaller`:
 ```bash
