@@ -1,7 +1,8 @@
 # Falcon-bms-tactical-report (BETA)
 ![Tactical Report Screenshot](002.png)
-Automated tactical AAR generator for Falcon BMS
-# Falcon BMS Tactical Report Builder
+Automated tactical AAR generator for [Falcon BMS](https://www.falcon-bms.com/)
+
+Falcon BMS Tactical Report Builder
 
 A Python-based tool that automatically parses Falcon BMS debrief logs (`.txt`) and generates a highly detailed, interactive, and beautiful HTML Tactical After-Action Report (AAR).
 
@@ -13,7 +14,7 @@ A Python-based tool that automatically parses Falcon BMS debrief logs (`.txt`) a
 * **Training Filter:** Automatically detects and skips non-combat training flights to keep your combat statistics clean.
 
 ## How to Use (For Users)
-1. Download the latest `.exe` from the **[Releases](link_to_your_releases_page)** tab.
+1. Download the latest `.exe` from the **[RELEASE](https://github.com/Jebelord/falcon-bms-tactical-report/releases)** tab.
 2. Run the executable.
 3. Point it to your Falcon BMS `Briefings` folder. (Falcon BMS 4.**\User\Briefings)
 4. Set your filters (Dates, Multiplayer vs Singleplayer).
